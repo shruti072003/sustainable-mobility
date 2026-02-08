@@ -1,13 +1,13 @@
-## 🌱 Sustainable Mobility in Panama: Traffic & Emissions Analytics
+# 🌱 Sustainable Mobility in Panama: Traffic & Emissions Analytics
 
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 Urban traffic congestion is a major contributor to air pollution and CO2 emissions in rapidly growing cities. This project analyzes the role of carpooling as a sustainable mobility strategy in Panama by leveraging real-world traffic and environmental data.
 
 Using regression-based statistical modeling, the project quantifies the relationship between carpool adoption and emission reductions, while also identifying congestion and pollution hotspots to support data-driven urban planning decisions.
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 1. Quantify the impact of carpooling adoption on CO₂ emissions reduction
 
@@ -17,7 +17,7 @@ Using regression-based statistical modeling, the project quantifies the relation
 
 4. Provide actionable insights for sustainable transportation policies
 
-# 📊 Methodology
+## 📊 Methodology
 
 1. Data Collection
 
@@ -48,7 +48,7 @@ Using regression-based statistical modeling, the project quantifies the relation
 - Interpreted trends across different urban zones and time periods
 
 
-# 🔍 Key Findings
+## 🔍 Key Findings
 
 - Increased carpool adoption shows a negative correlation with CO₂ emissions, indicating measurable environmental benefits
 
@@ -56,7 +56,7 @@ Using regression-based statistical modeling, the project quantifies the relation
 
 - Data supports carpooling as a scalable and cost-effective approach to improving urban mobility
 
-# 🛠️ Tools
+## 🛠️ Tools
 
 - Python
 
