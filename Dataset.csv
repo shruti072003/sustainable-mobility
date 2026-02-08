@@ -1,0 +1,21 @@
+id,edad,genero,ingreso,distancia,frecuencia,medio_trans,participado_antes,incentivos,desalentador,preocupacion_medio,dispuesto_carpooling,impacto_carpooling
+0,15-25,M,$2000 - $5000,10 - 20km,Una vez al dia,Carro propio,Si,Ahorro en costos,Preferencia por la privacidad,Neutral,No,Tal vez
+1,15-25,M,$2000 - $5000,5 - 10km,Una vez al dia,Transporte publico,Si,Ahorro en costos,Preocupaciones de seguridad,Preocupado,Si,Si
+2,15-25,F,$1000 - $2000,10 - 20km,Varias veces a la semana,Carro propio,No,Ahorro en costos,Problemas de horarios,Preocupado,No,Tal vez
+3,15-25,M,$2000 - $5000,< 5km,Varias veces en un dia,Carro propio,Si,Ahorro en costos,Problemas de horarios,Poco preocupado,No,Si
+4,15-25,M,< $1000,20km >,Una vez al dia,Transporte publico,Si,Comodidad,Preocupaciones de seguridad,Preocupado,Si,Tal vez
+5,15-25,M,$1000 - $2000,< 5km,Varias veces a la semana,Caminar,Si,Comodidad,Problemas de horarios,Muy preocupado,Si,Si
+6,15-25,F,$1000 - $2000,< 5km,Varias veces en un dia,Transporte publico,Si,Ahorro en costos,Falta de companeros de carpooling,Muy preocupado,Si,Si
+7,15-25,M,$2000 - $5000,< 5km,Varias veces a la semana,Caminar,No,"Ahorro en costos, Comodidad, Reduccion de la congestion del trafico, Beneficios medioambientales","Preocupaciones de seguridad, Preferencia por la privacidad",Muy preocupado,Si,Tal vez
+8,15-25,M,$1000 - $2000,5 - 10km,Una vez a la semana,Carro propio,No,"Ahorro en costos, Comodidad, Reduccion de la congestion del trafico, Beneficios medioambientales","Preocupaciones de seguridad, Problemas de horarios, Preferencia por la privacidad",Neutral,Si,Si
+9,25-40,F,< $1000,10 - 20km,Varias veces a la semana,Transporte publico,Si,"Ahorro en costos, Reduccion de la congestion del trafico","Problemas de horarios, Falta de companeros de carpooling",Poco preocupado,Si,Si
+10,25-40,M,$1000 - $2000,10 - 20km,Varias veces a la semana,Transporte publico,No,"Ahorro en costos, Reduccion de la congestion del trafico","Preocupaciones de seguridad, Inconveniencia, Preferencia por la privacidad",Preocupado,Si,Tal vez
+11,25-40,M,< $1000,20km >,Varias veces a la semana,Carro propio,No,"Ahorro en costos, Beneficios medioambientales","Preocupaciones de seguridad, Problemas de horarios, Preferencia por la privacidad",Neutral,No,Tal vez
+12,25-40,F,$2000 - $5000,10 - 20km,Varias veces en un dia,Carro propio,Si,"Ahorro en costos, Reduccion de la congestion del trafico, Beneficios medioambientales","Inconveniencia, Preferencia por la privacidad",Preocupado,Si,Si
+13,25-40,F,$1000 - $2000,20km >,Varias veces a la semana,Carro propio,No,Ahorro en costos,"Preocupaciones de seguridad, Preferencia por la privacidad",Preocupado,Si,Si
+14,15-25,F,$2000 - $5000,5 - 10km,Varias veces en un dia,Carpool,Si,"Ahorro en costos, Comodidad","Preocupaciones de seguridad, Preferencia por la privacidad",Poco preocupado,No,Tal vez
+15,40-60,M,$1000 - $2000,10 - 20km,Una vez al dia,Transporte publico,No,"Comodidad, Reduccion de la congestion del trafico, Beneficios medioambientales","Problemas de horarios, Falta de companeros de carpooling",Preocupado,Si,Tal vez
+16,40-60,F,$2000 - $5000,10 - 20km,Varias veces a la semana,Transporte publico,No,"Ahorro en costos, Comodidad, Reduccion de la congestion del trafico, Beneficios medioambientales","Preocupaciones de seguridad, Problemas de horarios, Falta de companeros de carpooling",Preocupado,Si,Si
+17,25-40,F,$1000 - $2000,20km >,Varias veces a la semana,Carpool,Si,"Ahorro en costos, Comodidad, Reduccion de la congestion del trafico, Beneficios medioambientales",Problemas de horarios,Muy preocupado,Si,Si
+18,15-25,F,$2000 - $5000,20km >,Una vez al dia,Carro propio,No,"Ahorro en costos, Comodidad, Reduccion de la congestion del trafico, Beneficios medioambientales","Preocupaciones de seguridad, Preferencia por la privacidad",Preocupado,Si,Si
+19,15-25,M,$2000 - $5000,< 5km,Varias veces en un dia,Bicicleta,Si,"Ahorro en costos, Comodidad","Preocupaciones de seguridad, Problemas de horarios",Preocupado,Si,Si
